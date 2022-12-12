@@ -1,0 +1,8 @@
+node_modules
+package-lock.json
+MediaRecommend.vpp.bak_000f
+MediaRecommend.vpp.bak_001d
+MediaRecommend.vpp.bak_002d
+MediaRecommend.vpp.bak_003d
+
+*.db-journal
